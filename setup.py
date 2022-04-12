@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='cpflow',
-     version='1.0.2',
+     version='1.0.3',
      author="Nikita Nemkov",
      author_email="nnemkov@gmail.com",
      description="Variational synthesis of quantum circuits.",
