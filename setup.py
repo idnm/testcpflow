@@ -13,11 +13,4 @@ setup(name='testcpflow',
 
       install_requires=['pandas', 'numpy', 'jax'],
 
-      classifiers=[
-          'Development Status :: 3 - Alpha',
-          'Intended Audience :: Quantum engineers',
-          'Topic :: Quantum Computing :: Circuit Synthesis',
-          'License :: OSI Approved :: MIT License',  # Your License Here
-          'Programming Language :: Python :: 3.8',
-      ],
       )
