@@ -5,7 +5,7 @@ setup(name='testcpflow',
       version='1.0.0',
       description='Brief Description HERE',
       url='https://github.com/idnm/testcpflow',
-      download_url='',  # FILL IN LATER
+      download_url='https://github.com/idnm/testcpflow/archive/refs/tags/1.0.0.tar.gz',  # FILL IN LATER
       author='Nikita Nemkov',
       author_email='nnemkov@gmail.com',
       keywords=['quantum', 'circuits', 'decomposition', 'synthesis'],
@@ -18,6 +18,6 @@ setup(name='testcpflow',
           'Intended Audience :: Quantum engineers',
           'Topic :: Quantum Computing :: Circuit Synthesis',
           'License :: OSI Approved :: MIT License',  # Your License Here
-          'Programming Language :: Python :: ^3.7',
+          'Programming Language :: Python :: 3.8',
       ],
       )
