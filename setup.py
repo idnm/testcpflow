@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-     name='CPFlow',
-     version='1.0.0',
+     name='cpflow',
+     version='1.0.2',
      author="Nikita Nemkov",
      author_email="nnemkov@gmail.com",
      description="Variational synthesis of quantum circuits.",
