@@ -9,7 +9,7 @@ setuptools.setup(
      author="Nikita Nemkov",
      author_email="nnemkov@gmail.com",
      description="Variational synthesis of quantum circuits.",
-     url="https://github.com/idnm/testcpflow",
+     url="",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
